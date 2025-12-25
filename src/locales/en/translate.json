@@ -1,0 +1,12 @@
+{
+    "welcome": "Welcome to the Navo.ai",
+    "ro'yhatdan o'tish": "Sign Up",
+    "kirish": "Enter",
+    "chiqish":"Logout",
+    "sozlamlar": "Settings",
+    "profil": "Profile",
+    "chiqishToast": "Logout succesfully",
+    "chiqishyakunlanmadi": "Log out",
+    "tilozgartirildi": "Language changed successfully",
+    "ikkihil parol": "Passwords do not match!"
+  }

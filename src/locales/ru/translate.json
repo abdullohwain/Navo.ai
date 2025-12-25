@@ -1,0 +1,12 @@
+{
+    "welcome": "Добро пожаловать на приложение Navo.ai",
+    "ro'yhatdan o'tish": "Регистрация",
+    "kirish": "Войти",
+    "chiqish": "Выйти из аккаунта",
+    "sozlamlar": "Настройки",
+    "profil": "Профиль",
+    "chiqishToast": "Вы успешно вышли",
+    "chiqishyakunlanmadi": "He удалось выйти",
+    "tilozgartirildi": "Язык успешно изменён",
+    "ikkihil parol": "Пароли не совпадают!"
+  }
