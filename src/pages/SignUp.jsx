@@ -123,14 +123,8 @@ import toast from 'react-hot-toast';
                       />
                     </div>
                     <Link className="link" to="/login">
-                      {t("kirish")} 
+                      {t("login")} 
                     </Link>
-                    {/* <button 
-                        onClick={handleGoogleLogin} 
-                        className="btn btn-neutral" 
-                        type="submit"
-                      >
-                      </button> */}
                     <button 
                         onClick={handleGoogleLogin} 
                         className="btn btn-neutral" 

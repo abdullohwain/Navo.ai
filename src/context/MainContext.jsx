@@ -14,7 +14,7 @@ const reducer = function (state, action) {
 }
 
 const initialState = {
-    isAuth: true,
+    isAuth: false,
     userInfo: null,
 }
 
